@@ -1,0 +1,19 @@
+    <item>
+      <title>ScrollMate 1.0.0 (11)</title>
+      <pubDate>Sun, 22 Nov 2026 22:47:29 +0000</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>ScrollMate 1.0.0</h3><ul>
+<li>A teleprompter panel that never appears in screen sharing, screen recording or a screenshot, and stays above fullscreen apps including a PowerPoint slideshow.</li>
+<li>Console across the top of the panel: progress ring, talk clock, time remaining, the section you're in and the one coming next, and a live badge confirming the panel is still hidden.</li>
+<li>The hidden state is checked against the window server every five seconds for as long as the app is running, and warns you if it ever changes.</li>
+<li>Scrolling is manual by default — the script holds still until you press play, and a click on it always stops it.</li>
+<li>Speed is set in lines per second over one fixed range, the same travel on the panel slider and in Settings.</li>
+<li>Hold Option for a contents list of the script's headings; click one to jump to it.</li>
+<li>Scripts are plain .txt or .md with headings, bold, italic, underline, bullets and [cue lines].</li>
+<li>Settings for typeface, size, line spacing and colour, with a live preview, plus a Usage pane that never leaves your Mac.</li>
+<li>In-app help, a menu bar icon rather than a Dock icon, and automatic updates checked against a signing key.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/jamdoran/scrollmate-updates/releases/download/b11/ScrollMate-11.zip" type="application/octet-stream" sparkle:edSignature="UG7T0wsk/iKneYpnCJnjQ0qpCc7TEqzj4oGZZYTRPFzEXOBPxP+rPx/n1JQXKL97dpBFRUHy1fF683EeQ/4fAw==" length="2008454"/>
+    </item>
