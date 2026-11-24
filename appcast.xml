@@ -6,6 +6,17 @@
     <description>Updates for ScrollMate.</description>
     <language>en</language>
     <item>
+      <title>ScrollMate 1.0.1 (12)</title>
+      <pubDate>Tue, 24 Nov 2026 10:30:15 +0000</pubDate>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>ScrollMate 1.0.1</h3><ul>
+<li>No changes. This release exists to check that updating works.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/jamdoran/scrollmate-updates/releases/download/b12/ScrollMate-12.zip" type="application/octet-stream" sparkle:edSignature="VJ95zfMfvE6VwQg/onPlAc9TGB7MZkakbwDWp3L3gRUDg7eHG2VMYRlFGDQYz4EehHHLUc8/ytIah2CE9fQUBA==" length="2008458"/>
+    </item>
+    <item>
       <title>ScrollMate 1.0.0 (11)</title>
       <pubDate>Sun, 22 Nov 2026 22:47:29 +0000</pubDate>
       <sparkle:version>11</sparkle:version>
